@@ -1,0 +1,16 @@
+2022-01-17 17:12:11,668 INFO  BookController:47 - [] [getBook] info message
+2022-01-17 17:12:11,670 WARN  BookController:48 - [] [getBook] warn message
+2022-01-17 17:12:11,670 ERROR BookController:49 - [] [getBook] error message
+2022-01-17 17:12:11,671 DEBUG BookController:50 - [] [getBook] debug message
+2022-01-17 17:12:12,450 INFO  BookController:47 - [] [getBook] info message
+2022-01-17 17:12:12,453 WARN  BookController:48 - [] [getBook] warn message
+2022-01-17 17:12:12,453 ERROR BookController:49 - [] [getBook] error message
+2022-01-17 17:12:12,454 DEBUG BookController:50 - [] [getBook] debug message
+2022-01-17 17:13:19,354 INFO  BookController:47 - [] [getBook] info message
+2022-01-17 17:13:19,357 WARN  BookController:48 - [] [getBook] warn message
+2022-01-17 17:13:19,376 ERROR BookController:49 - [] [getBook] error message
+2022-01-17 17:13:19,376 DEBUG BookController:50 - [] [getBook] debug message
+2022-01-17 17:14:53,411 INFO  BookController:47 - [] [getBook] info message
+2022-01-17 17:14:53,413 WARN  BookController:48 - [] [getBook] warn message
+2022-01-17 17:14:53,414 ERROR BookController:49 - [] [getBook] error message
+2022-01-17 17:14:53,415 DEBUG BookController:50 - [] [getBook] debug message
